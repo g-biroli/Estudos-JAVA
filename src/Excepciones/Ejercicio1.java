@@ -16,7 +16,7 @@ public class Ejercicio1 {
 			try {
 				System.out.println("Introduce el numero " + count + ": ");
 				numero = sc.nextInt();
-				if (count == 1 || numero > max) {		//test
+				if (count == 1 || numero > max) {		//testt
 					max = numero;
 				}
 				count++;
