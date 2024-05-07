@@ -37,8 +37,8 @@ public class principal {
                      System.out.println("Faltan datos por rellenar.");
                  }
                  break;
-			} while(opcion != 5);
-	}
+			} while (opcion != 5);
+	}	
 			
 			public static void mostrarMenu() {
 				System.out.println("Menu de opciones");

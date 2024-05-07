@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=".git/src"/>
+	<classpathentry kind="src" path="AbstractaInterfaz/src"/>
+	<classpathentry kind="src" path="ActividadEntornos2/src"/>
+	<classpathentry kind="src" path="ActividadEntornos2/Test"/>
+	<classpathentry kind="src" path="ActividadEvaluable2/src"/>
+	<classpathentry kind="src" path="ActividadEvaluable3/src"/>
+	<classpathentry kind="src" path="AlquillerC/src"/>
+	<classpathentry kind="src" path="AlquillerC/Test"/>
+	<classpathentry kind="src" path="Aula02-CursoEmVideo/src"/>
+	<classpathentry kind="src" path="Aula03-CursoEmVideo/src"/>
+	<classpathentry kind="src" path="Aula04/src"/>
+	<classpathentry kind="src" path="Aula05/src"/>
+	<classpathentry kind="src" path="Aula06/src"/>
+	<classpathentry kind="src" path="Aula07UltraEmojiCombat/src"/>
+	<classpathentry kind="src" path="Aula09/src"/>
+	<classpathentry kind="src" path="aula10/src"/>
+	<classpathentry kind="src" path="Aula11/src"/>
+	<classpathentry kind="src" path="Caderno de anotações/src"/>
+	<classpathentry kind="src" path="ClaseExcepciones/src"/>
+	<classpathentry kind="src" path="ContaBanco/src"/>
+	<classpathentry kind="src" path="ejemplosHerencia/src"/>
+	<classpathentry kind="src" path="EjercicioEmpleadoHerencia/src"/>
+	<classpathentry kind="src" path="ejercicioTablets/src"/>
+	<classpathentry kind="src" path="Estudos Obj-Classe/src"/>
+	<classpathentry kind="src" path="SimuladoProgramacion/src"/>
+	<classpathentry kind="src" path="TiposAbstractosDatos/src"/>
+	<classpathentry kind="output" path=".git/bin"/>
+</classpath>
